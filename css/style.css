@@ -11,7 +11,7 @@
 .page-content {
   max-width: 60em;
   max-height: 50em;
-   font-family: 'Open Sans Condensed', sans-serif;
+   font-family: 'Raleway', sans-serif;
 }
 
 .object-center {
@@ -21,7 +21,7 @@
 
 body {
   max-height: auto;
-  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 
 .small i { font-size: 0.8rem; }
@@ -45,4 +45,19 @@ body {
 
 .button {
   background-color: #CC443B;
+
+}
+
+/*custom buttons*/
+#about-button{
+  transform:scale(1,.9);
+  background-color: lightgrey;
+  color: black;
+  border:5px dashed #CC443B;
+}
+
+#about-button:hover {
+  
+  
+  border-style: solid;
 }
