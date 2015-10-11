@@ -38,7 +38,7 @@ $(document).ready(function(){
       $('.template').find("#body").text(fcBody);
     };
 
-    $('.page-content').animate({top:"-20%"},1000);
+    $('.page-content').animate({top:"-30%"},1000);
     $('.template').css("top","120%").show();
     $('.template').animate({
       top: "50%"
