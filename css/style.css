@@ -61,3 +61,12 @@ body {
   
   border-style: solid;
 }
+
+.button-group {
+
+}
+
+.button:hover{
+  background-color: #49FF95;
+  color: black;
+}
